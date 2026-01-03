@@ -153,9 +153,9 @@
 
 ## Список литературы
 
-1.  TQuality. Что такое REST API. URL: https://tquality.ru/blog/rest-api-chto-eto-takoe/.
-2.  Software-Testing.ru. Тестирование производительности программного обеспечения. URL: https://software-testing.ru/library/testing/performance-testing/2627-testing-perfomance.
-3.  Habr. Тестирование производительности API. URL: https://habr.com/ru/amp/publications/930318/.
-4.  Skillfactory. Нагрузочное и стрессовое тестирование. URL: https://blog.skillfactory.ru/nagruzochnoe-i-stressovoe-testirovanie/.
-5.  Яндекс Нейрум. В чём преимущества стресс-тестирования API. URL: https://ya.ru/neurum/c/nauka-i-obrazovanie/q/v_chem_preimuschestva_stresstestirovaniya_api_a258af31.
-6.  TestEngineer. Volume testing: руководство по объёмному тестированию. URL: https://testengineer.ru/volume-testing-guide/.
+1. Volume testing: руководство по объёмному тестированию [Электронный ресурс] // TestEngineer. — URL: https://testengineer.ru/volume-testing-guide/ (дата обращения: 12.11.2025).
+2. В чём преимущества стресс-тестирования API [Электронный ресурс] // Яндекс Нейрум. — URL: https://ya.ru/neurum/c/nauka-i obrazovanie/q/v_chem_preimuschestva_stresstestirovaniya_api_a258af31 (дата обращения: 12.11.2025).
+3. Нагрузочное и стрессовое тестирование [Электронный ресурс] // Skillfactory. — URL: https://blog.skillfactory.ru/nagruzochnoe-i-stressovoe-testirovanie/ (дата обращения: 12.11.2025).
+4. Тестирование производительности API [Электронный ресурс] // Habr. — URL: https://habr.com/ru/amp/publications/930318/ (дата обращения: 12.11.2025).
+5. Тестирование производительности программного обеспечения [Электронный ресурс] // Software-Testing.ru. — URL: https://software testing.ru/library/testing/performance-testing/2627-testing-perfomance (дата обращения: 12.11.2025).
+6. Что такое REST API [Электронный ресурс] // TQuality. — URL: https://tquality.ru/blog/rest-api-chto-eto-takoe/ (дата обращения: 12.11.2025).
